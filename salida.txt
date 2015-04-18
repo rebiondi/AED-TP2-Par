@@ -1,0 +1,6 @@
+Ingrese un numero que quiera saber si es par o no: 5
+
+
+El numero ingresado no es par!
+Process returned 0 (0x0)   execution time : 1.495 s
+Press any key to continue.
